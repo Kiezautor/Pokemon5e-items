@@ -1,12 +1,12 @@
-Name	Region	League	Gym Name	Gym Leader	Description	Folder	Img
+Name,	Region,	League,	Gym Name,	Gym Leader,	Description,	Folder,	Img
 Boulder	Kanto	Indigo	Pewter City	Brock		kanto	boulder
 Cascade	Kanto	Indigo	Cerulean City	Misty		kanto	cascade
-Thunder	Kanto	Indigo	Vermilion City	Lt. Surge		kanto	thunder
+Thunder	Kanto	Indigo	Vermilion City	Lt. Surge	kanto	thunder
 Rainbow	Kanto	Indigo	Celdaon City	Erika		kanto	rainbow
-Soul	Kanto	Indigo	Fuchsia City	Koga / Janine		kanto	soul
+Soul	Kanto	Indigo	Fuchsia City	Koga / Janine	kanto	soul
 Marsh	Kanto	Indigo	Saffron City	Sabrina		kanto	marsh
-Volcano	Kanto	Indigo	Cinnabar Island	Blaine		kanto	volcano
-Earth	Kanto	Indigo	Viridian City	Giovanni		kanto	earth
+Volcano	Kanto	Indigo	Cinnabar Island	Blaine	        kanto	volcano
+Earth	Kanto	Indigo	Viridian City	Giovanni	kanto	earth
 Zephyr	Johto	Johto	Violet City	Falkner		johto	zephyr
 Hive	Johto	Johto	Azalea Town	Bugsy		johto	hive
 Plain	Johto	Johto	Goldenrod City	Whitney		johto	plain
